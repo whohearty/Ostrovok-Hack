@@ -1,0 +1,14 @@
+# Secrets and local source archive
+.env
+.env.*
+!.env.example
+sources/originals/
+.private/
+.tools/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+*.sqlite*
+*.db

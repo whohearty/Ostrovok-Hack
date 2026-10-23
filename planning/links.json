@@ -1,0 +1,72 @@
+{
+  "repository": "https://github.com/whohearty/Ostrovok-Hack",
+  "drive": {
+    "id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox",
+    "url": "https://drive.google.com/drive/folders/1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+  },
+  "folders": {
+    "00": {
+      "success": true,
+      "id": "1KZUQuhuMS8iyudEDo-7r06Qt9Deks3tq",
+      "url": "https://drive.google.com/drive/folders/1KZUQuhuMS8iyudEDo-7r06Qt9Deks3tq",
+      "title": "00 Навигация и план",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "01": {
+      "success": true,
+      "id": "1Ml3Lrr8JluCVgX6MxZ17MRiZYpksTtQ_",
+      "url": "https://drive.google.com/drive/folders/1Ml3Lrr8JluCVgX6MxZ17MRiZYpksTtQ_",
+      "title": "01 Источники организаторов",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "02": {
+      "success": true,
+      "id": "14MCmtztSI8xU4KcLJmG-3XT0NBdfNLGG",
+      "url": "https://drive.google.com/drive/folders/14MCmtztSI8xU4KcLJmG-3XT0NBdfNLGG",
+      "title": "02 Аналитика и требования",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "03": {
+      "success": true,
+      "id": "1TQWVC3V9RRlQzReAvU2MDRWCpFnNXyOz",
+      "url": "https://drive.google.com/drive/folders/1TQWVC3V9RRlQzReAvU2MDRWCpFnNXyOz",
+      "title": "03 Архитектура и разработка",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "04": {
+      "success": true,
+      "id": "1rkZSOKZgQ11YfrO14_KntXpPJVpe5X9C",
+      "url": "https://drive.google.com/drive/folders/1rkZSOKZgQ11YfrO14_KntXpPJVpe5X9C",
+      "title": "04 Дизайн",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "05": {
+      "success": true,
+      "id": "1acGEkuytZRCx17VHFsJ4b4K6kbrnE0kl",
+      "url": "https://drive.google.com/drive/folders/1acGEkuytZRCx17VHFsJ4b4K6kbrnE0kl",
+      "title": "05 Экономика",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "06": {
+      "success": true,
+      "id": "1YOaDHtA3phqNvh6soVqygkqbzXisS999",
+      "url": "https://drive.google.com/drive/folders/1YOaDHtA3phqNvh6soVqygkqbzXisS999",
+      "title": "06 Валидация",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "07": {
+      "success": true,
+      "id": "1yNR1LeL1IylPrTyBrzNtUa_-NCuF_jyd",
+      "url": "https://drive.google.com/drive/folders/1yNR1LeL1IylPrTyBrzNtUa_-NCuF_jyd",
+      "title": "07 Презентация и демо",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    },
+    "08": {
+      "success": true,
+      "id": "1jDk6zhR8gOglOgSXb11hBsnKkpS6BHQR",
+      "url": "https://drive.google.com/drive/folders/1jDk6zhR8gOglOgSXb11hBsnKkpS6BHQR",
+      "title": "08 Сдача",
+      "parent_id": "1itgENuDCv3z0OTQTjxIHOba3DEDA0Hox"
+    }
+  }
+}
